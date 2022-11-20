@@ -18,7 +18,12 @@ Orientation:
 
 1. [ ] Número de escolas em Curitiba;
 2. [ ] Número de escolas por Região Geográfica (NO_REGIAO) ordenado de acordo com o nome da região;
-3. [ ] Nome (NO_ENTIDADE), município (NO_MUNICIPIO) e quantidade de docentes da escola que possui o maior número de professoressomando as categorias de Educação Básica (QT_DOC_BAS), Ensino Fundamental (QT_DOC_FUND) e Ensino Médio (QT_DOC_MED);
+3. [ ] Nome (NO_ENTIDADE), município (NO_MUNICIPIO) e quantidade de docentes da escola que possui o maior número de professores somando as categorias de Educação Básica (QT_DOC_BAS), Ensino Fundamental (QT_DOC_FUND) e Ensino Médio (QT_DOC_MED);
 4. [ ] Quantidade média de matrículas de Ensino Médio (QT_MAT_MED) em relação ao total de escolas por Região Geográfica (NO_REGIAO);
 5. [ ] Quantidade de escolas por Tipo da Localização (TP_LOCALIZACAO) e Tipo da Dependência Administrativa (TP_DEPENDENCIA);
 6. [ ] Quantidade de escolas por Sigla da Unidade da Federação (SG_UF) e Tipo de Dependência Administrativa (TP_DEPENDENCIA), ordenada de acordo com as maiores quantidades.
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/90704921?v=4" width=115><br><sub>Gustavo Guimarães Martins</sub>](https://github.com/GustavoGuimaraes32) |  [<img src="https://avatars.githubusercontent.com/u/90728273?v=4" width=115><br><sub>Leonardo Fernandes Alves</sub>](https://github.com/alvessleo) |  [<img src="https://avatars.githubusercontent.com/u/102973197?v=4" width=115><br><sub>Vinícius Valentin Nogozzeky</sub>](https://github.com/ViniciusNogozzeky)
+| :---: | :---: | :---: |
