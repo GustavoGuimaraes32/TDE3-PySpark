@@ -23,7 +23,7 @@ Orientation:
 5. [ ] Quantidade de escolas por Tipo da Localização (TP_LOCALIZACAO) e Tipo da Dependência Administrativa (TP_DEPENDENCIA);
 6. [ ] Quantidade de escolas por Sigla da Unidade da Federação (SG_UF) e Tipo de Dependência Administrativa (TP_DEPENDENCIA), ordenada de acordo com as maiores quantidades.
 
-# Autores
+## Equipe
 
 | [<img src="https://avatars.githubusercontent.com/u/90704921?v=4" width=115><br><sub>Gustavo Guimarães Martins</sub>](https://github.com/GustavoGuimaraes32) |  [<img src="https://avatars.githubusercontent.com/u/90728273?v=4" width=115><br><sub>Leonardo Fernandes Alves</sub>](https://github.com/alvessleo) |  [<img src="https://avatars.githubusercontent.com/u/102973197?v=4" width=115><br><sub>Vinícius Valentin Nogozzeky</sub>](https://github.com/ViniciusNogozzeky)
 | :---: | :---: | :---: |
