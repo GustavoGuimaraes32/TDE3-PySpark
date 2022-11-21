@@ -16,8 +16,8 @@ Orientation:
 
 ## Demandas
 
-1. [ ] Número de escolas em Curitiba;
-2. [ ] Número de escolas por Região Geográfica (NO_REGIAO) ordenado de acordo com o nome da região;
+1. [ x ] Número de escolas em Curitiba;
+2. [ x ] Número de escolas por Região Geográfica (NO_REGIAO) ordenado de acordo com o nome da região;
 3. [ ] Nome (NO_ENTIDADE), município (NO_MUNICIPIO) e quantidade de docentes da escola que possui o maior número de professores somando as categorias de Educação Básica (QT_DOC_BAS), Ensino Fundamental (QT_DOC_FUND) e Ensino Médio (QT_DOC_MED);
 4. [ ] Quantidade média de matrículas de Ensino Médio (QT_MAT_MED) em relação ao total de escolas por Região Geográfica (NO_REGIAO);
 5. [ ] Quantidade de escolas por Tipo da Localização (TP_LOCALIZACAO) e Tipo da Dependência Administrativa (TP_DEPENDENCIA);
